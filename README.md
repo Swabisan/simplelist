@@ -60,13 +60,3 @@ https://www.cxsurveys.com/devtest/getStudyData.php
 
 Will return json file with study data needed to initialize the interface.
 
-
-# Submitting Results
-
-Please add a comment in the main.js file with your name so we know this is your project. If there are any speical instructions, please provide them in an additional readme file.
-
-When you have completed the task, create a zip archive of all files and include your name or initials in the archive name.
-Upload it to the following dropbox file request link:
-
-https://www.dropbox.com/request/NLv8VTB2JVH4lsqLACX3
-
